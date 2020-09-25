@@ -1,16 +1,14 @@
-# TechFests
+# Login and SignUp Template + Onboarding Screen
 
-A new Flutter project.
+This app is developed using Flutter and Dart.
+This app includes 5 screens and can be used as Template. It also has a feature of dark mode.
 
+## 1. Splash Screen (Logo Display)
+## 2. Onboarding Screen (3 Sub Screen)
+## 3. SignUp Screen
+## 4. Login Screen
+## 5. Forgot Password Screen
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Onboarding Screen
+<img src="https://github.com/reverope/Flutter-LS-Template/blob/master/gifs/darkmode.gif">
