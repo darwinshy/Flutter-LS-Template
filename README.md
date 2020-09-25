@@ -23,3 +23,7 @@ This app includes 5 screens and can be used as Template. It also has a feature o
 
 #### Dark Mode
 <img width="30%" src="https://github.com/reverope/Flutter-LS-Template/blob/master/gifs/darkmode.gif">
+
+<hr>
+### Designed and Developed by Me :)
+### Hope you like it.
